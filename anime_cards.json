@@ -1,0 +1,151 @@
+{
+  "anime_cards": [
+    {
+      "id": 1,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-1.jpg",
+      "Image": "./src/assets/img/1.png",
+      "logo": "./src/assets/logo/1.png"
+    },
+    {
+      "id": 2,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-2.jpg",
+      "Image": "./src/assets/img/2.png",
+      "logo": "./src/assets/logo/2.png"
+    },
+    {
+      "id": 3,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-3.jpg",
+      "Image": "./src/assets/img/3.png",
+      "logo": "./src/assets/logo/3.png"
+    },
+    {
+      "id": 4,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-4.jpeg",
+      "Image": "./src/assets/img/4.png",
+      "logo": "./src/assets/logo/4.png"
+    },
+    {
+      "id": 5,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-5.jpg",
+      "Image": "./src/assets/img/5.png",
+      "logo": "./src/assets/logo/5.png"
+    },
+    {
+      "id": 6,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-6.jpg",
+      "Image": "./src/assets/img/6.png",
+      "logo": "./src/assets/logo/6.png"
+    },
+    {
+      "id": 7,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-7.jpg",
+      "Image": "./src/assets/img/7.png",
+      "logo": "./src/assets/logo/7.png"
+    },
+    {
+      "id": 8,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-8.jpg",
+      "Image": "./src/assets/img/8.png",
+      "logo": "./src/assets/logo/8.png"
+    },
+    {
+      "id": 9,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-9.jpg",
+      "Image": "./src/assets/img/9.png",
+      "logo": "./src/assets/logo/9.png"
+    },
+    {
+      "id": 10,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-10.jpg",
+      "Image": "./src/assets/img/10.png",
+      "logo": "./src/assets/logo/10.png"
+    },
+    {
+      "id": 11,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-11.jpeg",
+      "Image": "./src/assets/img/11.png",
+      "logo": "./src/assets/logo/11.png"
+    },
+    {
+      "id": 12,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-12.jpg",
+      "Image": "./src/assets/img/12.png",
+      "logo": "./src/assets/logo/12.png"
+    },
+    {
+      "id": 13,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-13.jpg",
+      "Image": "./src/assets/img/13.png",
+      "logo": "./src/assets/logo/13.png"
+    },
+    {
+      "id": 14,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-14.jpg",
+      "Image": "./src/assets/img/14.png",
+      "logo": "./src/assets/logo/14.png"
+    },
+    {
+      "id": 15,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-15.jpg",
+      "Image": "./src/assets/img/15.png",
+      "logo": "./src/assets/logo/15.png"
+    },
+    {
+      "id": 16,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-16.jpg",
+      "Image": "./src/assets/img/16.png",
+      "logo": "./src/assets/logo/16.png"
+    },
+    {
+      "id": 17,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-17.jpg",
+      "Image": "./src/assets/img/17.png",
+      "logo": "./src/assets/logo/17.png"
+    },
+    {
+      "id": 18,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-18.jpg",
+      "Image": "./src/assets/img/18.png",
+      "logo": "./src/assets/logo/18.png"
+    },
+    {
+      "id": 19,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-19.jpeg",
+      "Image": "./src/assets/img/19.png",
+      "logo": "./src/assets/logo/19.png"
+    },
+    {
+      "id": 20,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-20.jpg",
+      "Image": "./src/assets/img/20.png",
+      "logo": "./src/assets/logo/20.png"
+    },
+    {
+      "id": 21,
+      "url": "",
+      "backgroundImage": "./src/assets/cards/bg-21.jpg",
+      "Image": "./src/assets/img/21.png",
+      "logo": "./src/assets/logo/21.png"
+    }
+  ]
+}
